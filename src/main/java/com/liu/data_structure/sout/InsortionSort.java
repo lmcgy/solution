@@ -2,6 +2,8 @@ package com.liu.data_structure.sout;
 
 /**
  * 插入排序
+ *
+ * liu miao
  */
 public class InsortionSort {
 
