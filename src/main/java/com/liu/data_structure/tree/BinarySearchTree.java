@@ -50,8 +50,9 @@ public class BinarySearchTree {
     }
 
 
-
-
+    /**
+     * 链表
+     */
     private static class Node{
         private int data;
         private Node left;
