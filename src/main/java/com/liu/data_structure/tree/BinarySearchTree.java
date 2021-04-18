@@ -2,6 +2,7 @@ package com.liu.data_structure.tree;
 
 /**
  * 二叉查找树
+ *
  */
 public class BinarySearchTree {
 
