@@ -3,6 +3,7 @@ package com.liu.data_structure.queue;
 
 /**
  * 基于链表实现的数组
+ *
  */
 public class LinkedQueue {
 
