@@ -1,7 +1,7 @@
 package com.liu.data_structure.sout;
 
 /**
- * 快速排序
+ * 选择排序
  */
 public class SelectionSort {
 
