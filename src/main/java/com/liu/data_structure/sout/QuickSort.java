@@ -4,6 +4,7 @@ package com.liu.data_structure.sout;
  * 快速排序
  * 核心思想分区
  * 分区点
+ * 核心思想-分治思想
  */
 public class QuickSort {
 
