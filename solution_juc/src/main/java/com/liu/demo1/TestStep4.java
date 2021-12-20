@@ -3,6 +3,7 @@ package com.liu.demo1;
 import lombok.extern.slf4j.Slf4j;
 
 /**
+ * while+notifyAll
  * @Author: Gavin
  * @Date: 2021/12/20 16:27
  */
