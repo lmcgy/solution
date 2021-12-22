@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * 保护性暂停模式-多任务版本
- *
+ * 同步-一一对应
  * @Author: Gavin
  * @Date: 2021/12/22 10:33
  */

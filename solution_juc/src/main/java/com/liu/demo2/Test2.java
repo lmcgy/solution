@@ -7,6 +7,7 @@ import java.util.List;
 
 /**
  * 超时版本的保护性暂停模式
+ * 同步-一一对应
  * @Author: Gavin
  * @Date: 2021/12/22 9:55
  */
