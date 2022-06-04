@@ -7,11 +7,10 @@
     <parent>
         <groupId>com.liu</groupId>
         <artifactId>solution</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>${revision}</version>
     </parent>
 
     <artifactId>solution_rocketmq</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
 
     
 </project>

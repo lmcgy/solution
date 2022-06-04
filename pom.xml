@@ -13,19 +13,22 @@
 
     <groupId>com.liu</groupId>
     <artifactId>solution</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>${revision}</version>
 
     <name>solution</name>
     <description>Demo project for Spring Boot</description>
 
     <modules>
         <module>solution_alg</module>
+        <module>solution_design_patterns</module>
         <module>solution_juc</module>
         <module>solution_jvm</module>
+        <module>solution_rocket_mq</module>
     </modules>
 
 
     <properties>
+        <reversion>0.0.1-SNAPSHOT</reversion>
         <java.version>1.8</java.version>
         <mybatis.version>3.5.4</mybatis.version>
     </properties>
