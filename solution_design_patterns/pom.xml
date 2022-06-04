@@ -12,5 +12,8 @@
 
     <artifactId>solution_design_patterns</artifactId>
 
+    <dependencies>
+
+    </dependencies>
     
 </project>
