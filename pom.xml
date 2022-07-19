@@ -24,6 +24,8 @@
         <module>solution_juc</module>
         <module>solution_jvm</module>
         <module>solution_rocket_mq</module>
+        <module>solution_es</module>
+        <module>solution_netty</module>
     </modules>
 
 
